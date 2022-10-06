@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnDy
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning NodeJS
+- 🌱 I’m currently learning NodeJS, Angular 
 - 💞️ I’m looking to collaborate on big companies
 - 📫 How to reach me (facafaca57@gmail.com)
 
